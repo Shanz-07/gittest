@@ -1,4 +1,4 @@
-a = input("Enter a string: ")
+a = input("Enter a string: ");
 b = a[::-1]
 if a == b:
     print("It is a palindrome")
